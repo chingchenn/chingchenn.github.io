@@ -10,7 +10,7 @@ author_profile: true
 
 ### Is there a molten layer at the base of the Martian mantle?
 
-*Planetary interiors · with Paul Asimow · 2025 to present*
+*Planetary interiors · with Paul Asimow · 2026 to present*
 
 - Combine thermodynamic modeling (HeFESTo) with seismic travel-time calculations in a Bayesian (MCMC) framework
 - Infer the composition, temperature, and melt fraction of a basal mantle layer above the Martian core
@@ -54,7 +54,7 @@ author_profile: true
 
 ### Groundwater drives seasonal seismic velocity changes in the Longitudinal Valley, Taiwan
 
-*Seismology · Undergraduate research, National Central University*
+*Seismology · Undergraduate research, Institute of Earth Sciences, Academia Sinica*
 
 - Measured seismic velocity changes (δv/v) from ambient noise at the Chihshang array, 2013 to 2020
 - Found velocity changes up to 12%, correlated with shallow groundwater levels and confined to the top ~30 m
