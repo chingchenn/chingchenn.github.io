@@ -36,3 +36,23 @@
     "layout/archive",
     "layout/sidebar"
 ;
+
+/* Research page table of contents:
+   narrow screens: normal box above the content (no overlap)
+   wide screens: fixed in the empty right margin, follows scrolling */
+.sidebar__right.sticky {
+  float: none;
+  position: static;
+  width: auto;
+  margin: 0 0 2em 0;
+
+  @media (min-width: 1400px) {
+    position: fixed;
+    top: 6em;
+    right: 1.5em;
+    width: 13em;
+    max-height: calc(100vh - 8em);
+    overflow-y: auto;
+    margin: 0;
+  }
+}
