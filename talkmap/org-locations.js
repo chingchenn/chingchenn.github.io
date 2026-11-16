@@ -1,22 +1,32 @@
 var addressPoints = [
   [
-    "Tutorial 1 on Relevant Topic in Your Field<br />UC-Berkeley Institute for Testing Science; Berkeley, CA, USA",
-    37.8708393,
-    -122.272863
+    "Europa's ice shell thickness: estimates from thermal evolution models<br />EGU General Assembly 2025; Vienna, Austria",
+    48.2083537,
+    16.3725042
   ],
   [
-    "Talk 2 on Relevant Topic in Your Field<br />London School of Testing; London, UK",
-    51.5074456,
-    -0.1277653
-  ],
-  [
-    "Talk 1 on Relevant Topic in Your Field<br />UC San Francisco, Department of Testing; San Francisco, CA, USA",
+    "Thermal, magmatic, and stress effects of flat subduction in Mexico and Chile: A 2D thermo-mechanical modeling study<br />AGU Fall Meeting 2023; San Francisco, CA, USA",
     37.7879363,
     -122.4075201
   ],
   [
-    "Conference Proceeding talk 3 on Relevant Topic in Your Field<br />Testing Institute of America 2014 Annual Conference; Los Angeles, CA, USA",
-    34.0536923,
-    -118.2427676
+    "Origin and evolution of flat slab subduction: Insights from numerical modeling of thermo-mechanical behavior<br />AGU Fall Meeting 2022; Chicago, IL, USA",
+    41.8755616,
+    -87.6244212
+  ],
+  [
+    "Seismic velocity change induced by groundwater level fluctuation in the Chihshang area, Taiwan<br />Taiwan Geosciences Assembly 2020; Taipei, Taiwan",
+    25.0375198,
+    121.5636796
+  ],
+  [
+    "Stagnant-lid convection with tidal heating and temperature-dependent thermal conductivity and the thermal evolution of icy bodies<br />AGU Fall Meeting 2023; San Francisco, CA, USA",
+    37.7879363,
+    -122.4075201
+  ],
+  [
+    "The evolution of flat slab subduction: Insights from numerical modeling of thermo-mechanical behavior<br />Taiwan Geosciences Assembly 2022; Taipei, Taiwan",
+    25.0375198,
+    121.5636796
   ]
 ];
