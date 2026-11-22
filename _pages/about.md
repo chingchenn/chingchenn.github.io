@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student in Geophysics in the [Division of Geological and Planetary Sciences](https://www.gps.caltech.edu/) at Caltech, working with Paul Asimow and Mike Gurnis.
+I am a PhD student in Geophysics in the [Division of Geological and Planetary Sciences](https://www.gps.caltech.edu/) at Caltech. My interest is in planetary interiors, which I study by combining several different aspects, such as experimental data, seismic data, geodynamic observations, and thermodynamic calculations, using inversion with forward modeling.
 
-I use numerical models and Bayesian inversion to study the thermal and mechanical evolution of planetary interiors, from subduction zones on Earth to the deep mantle of Mars and the ice shell of Europa.
+Although I especially love studying the evolutionary histories of all kinds of things (plate tectonics, large igneous provinces and continental cycles, Europa's ice shell, the Martian core-mantle boundary, and even Renaissance Florence and the Wars of the Roses), I have hardly ever built a formal evolution model myself, which is a fun fact about me.
 
 **Current research**
 
@@ -21,5 +21,5 @@ See [Research](/research/) for details.
 **Education**
 
 - PhD, Geophysics, California Institute of Technology, 2025 to present
-- MS, Geophysics, National Taiwan University
-- BS, Geophysics, National Central University, 2021
+- MS, Geosciences, National Taiwan University, 2021 to 2023
+- BS, Geophysics, National Central University, 2017 to 2021
