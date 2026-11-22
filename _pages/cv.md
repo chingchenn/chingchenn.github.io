@@ -10,7 +10,6 @@ author_profile: true
 Education
 ======
 * **Ph.D. in Geophysics**, California Institute of Technology, 2025 to present
-  * Advisors: Paul Asimow and Mike Gurnis
 * **M.S. in Geosciences**, National Taiwan University, 2021 to 2023
   * Thesis: [Origin and evolution of flat slab subduction: Insights from numerical geodynamics modelling](http://tdr.lib.ntu.edu.tw/jspui/handle/123456789/83257)
   * Advisors: Eh Tan and Shu-Huei Hung
@@ -18,8 +17,6 @@ Education
 
 Research experience
 ======
-* **Graduate Researcher**, Seismological Laboratory, Caltech, 2025 to present
-  * Mars basal mantle layer (with Paul Asimow); subduction-zone rheology inversion (with Mike Gurnis)
 * **Research Assistant**, Institute of Earth Sciences, Academia Sinica, 2023 to 2025
   * Thermal evolution of Europa's ice shell (with Frédéric Deschamps and Wen-Pin Hsieh)
 * **Graduate Researcher**, Geophysics Lab, National Taiwan University, 2021 to 2023
@@ -30,13 +27,8 @@ Research experience
 Fellowships, honors, and awards
 ======
 * MOE Taiwan/Caltech Fellowship, 2025 to present
-* Vei Chow Juan Best M.S. Thesis Award, Geological Society located in Taipei, 2024
-* Dean's Award for the Best Master's Thesis, College of Science, National Taiwan University, 2023
-* Honorary Member, The Phi Tau Phi Scholastic Honor Society of the Republic of China, 2023
-* Outstanding Poster Presentation Award, Taiwan Geosciences Assembly, 2022
+* Vei Chow Juan Best M.S. Thesis Award, Geological Society located in Taipei, 2024 (first place among M.S. theses, Geological Society of Taiwan)
+* Dean's Award for the Best Master's Thesis, College of Science, National Taiwan University, 2023 (top 10% in the College of Science)
+* Honorary Member, The Phi Tau Phi Scholastic Honor Society of the Republic of China, 2023 (top 10% in the Department of Geosciences)
+* Outstanding Poster Presentation Award, Taiwan Geosciences Assembly, 2022 (top 5% of posters)
 * Scholarship for Excellent Students, National Taiwan University, 2022
-
-Outreach
-======
-* **Summer Intern**, Department of Geology and Paleobiology, National Museum of Natural Science, Taichung, 2019
-  * Led museum tours and gave public lectures on plate tectonics and seismology
