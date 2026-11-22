@@ -9,3 +9,5 @@ location: "San Francisco, CA, USA"
 ---
 
 With Eh Tan.
+
+[Poster (PDF)](https://ching602504.wordpress.com/wp-content/uploads/2024/11/agu2023poster_v1.pdf)

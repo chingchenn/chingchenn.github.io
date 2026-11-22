@@ -9,3 +9,5 @@ location: "Taipei, Taiwan"
 ---
 
 With Eh Tan and Shu-Huei Hung.
+
+[Poster (PDF)](https://ching602504.wordpress.com/wp-content/uploads/2024/11/tga_poster_v6-1.pdf)

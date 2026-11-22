@@ -9,3 +9,5 @@ location: "Chicago, IL, USA"
 ---
 
 With Eh Tan and Shu-Huei Hung.
+
+[Poster (PDF)](https://ching602504.wordpress.com/wp-content/uploads/2024/11/2022agu_jiching_v4.pdf)

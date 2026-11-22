@@ -34,23 +34,15 @@ author_profile: true
 - Found that tidal heating and ice viscosity strongly control shell thickness (20 to 45 km), while ocean composition has a minor effect
 - Showed that temporal changes in tidal dissipation produce large thickness variations, helping reconcile thermal evolution models with surface geology
 
-[Paper (JGR Planets, 2026)](https://doi.org/10.1029/2024JE008928)
+More: [Chen et al., 2026, JGR Planets](https://doi.org/10.1029/2024JE008928); [code](https://github.com/chingchenn/Europa_ice_shell)
 
-### Ridge-induced dehydration, not buoyancy, controls flat slab formation beneath Chile
-
-*Geodynamics · MS research, National Taiwan University · with Eh Tan*
-
-- Developed 2D thermo-mechanical models of Nazca flat slab subduction including magmatism and mantle wedge hydration
-- Found that a subducting ridge adds only local buoyancy, while a dry, high-viscosity mantle wedge enhances suction and flattens the slab
-- Suggested that anomalous dehydration introduced by the ridge is the primary control on flat slab development
-
-### Thermo-mechanical evolution of the Pampean flat slab
+### Slab dehydration and mantle wedge weakening control flat slab subduction in Chile and Peru
 
 *Geodynamics · MS research, National Taiwan University · with Eh Tan*
 
-- Modeled time-dependent flat slab evolution, reproducing dehydration fronts, seismicity, and magmatism
-- Found that magma generation migrates landward as the slab flattens, explaining inland arc migration and the volcanic gap since 2 Ma
-- Suggested that magma-induced crustal weakening and shortening drive intraforeland deformation in the Sierras Pampeanas
+Flat slab subduction is usually explained by extra buoyancy from subducting ridges or oceanic plateaus. We take a different perspective: dehydration of the subducting slab releases water that, together with magmatism, weakens the mantle wedge and the plate boundary. In this study, we show that this weakening process strongly affects subduction dynamics, and that a lack of water can lead to flat slab formation. Applying our models to the Chilean and Peruvian subduction zones, we find that the predicted locations of magmatism and mountain building agree with observations.
+
+More: [Chen and Tan, 2025, preprint (mechanism)](https://doi.org/10.22541/essoar.173757637.73898113/v1); [Chen and Tan, 2025, preprint (Pampean flat slab)](https://doi.org/10.22541/essoar.173757632.22182677/v1); [MS thesis, National Taiwan University, 2022](http://tdr.lib.ntu.edu.tw/jspui/handle/123456789/83257); [code](https://github.com/chingchenn/geoflac/tree/flat)
 
 ### Groundwater drives seasonal seismic velocity changes in the Longitudinal Valley, Taiwan
 
